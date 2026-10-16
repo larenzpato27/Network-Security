@@ -65,8 +65,7 @@ def handle_client(client_socket, client_address):
     print(f"Client {client_address} disconnected.")
     client_socket.close()
 
-
 while True:
     client_socket, client_address = server.accept()
-    thread = threading.Thread(target = handle_client, args = (client_socket, client_address))
+    thread = threading.Thread(target = handle_client, args = (client_socket, client_address), daemon = True)
     thread.start()

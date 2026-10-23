@@ -5,6 +5,8 @@
 # Lab report template
 Lab/report_template*
 **/report_template*
+Lab/report_petruso_lorenzo_00140*
+**/report_petruso_lorenzo_00140*
 
 # macOS system files
 .DS_Store
@@ -16,3 +18,5 @@ __pycache__/
 *$py.class
 .venv/
 venv/
+
+~$*

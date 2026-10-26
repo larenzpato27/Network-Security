@@ -16,7 +16,16 @@ Lab/report_petruso_lorenzo_00140*
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Virtual environments
 .venv/
 venv/
 
+# Tor runtime cache and state
+**/tor_data/
+
+# Tor private keys
+**/hidden_service/hs_ed25519_secret_key
+
+# Other files
 ~$*

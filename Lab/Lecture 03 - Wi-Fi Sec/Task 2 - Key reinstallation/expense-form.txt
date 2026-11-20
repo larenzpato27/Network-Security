@@ -1,0 +1,33 @@
+ACME S.p.A. - EXPENSE REIMBURSEMENT FORM (rev. 2026-03)
+=======================================================
+
+Public template, download it from https://www.acme.test/forms/
+
+Employee name ........................................
+Employee ID ..........................................
+Department ...........................................
+Cost center ..........................................
+
+Trip / reason ........................................
+From (date) ............... To (date) ................
+
+ #  | Date       | Description              | Amount (EUR)
+----+------------+--------------------------+-------------
+ 1  |            |                          |
+ 2  |            |                          |
+ 3  |            |                          |
+ 4  |            |                          |
+ 5  |            |                          |
+ 6  |            |                          |
+----+------------+--------------------------+-------------
+                                    TOTAL   |
+
+Payment: [ ] bank transfer   [ ] payroll
+
+Attach every receipt. Expenses above 50 EUR without a
+receipt are not refunded. Submit the form within 30 days
+of the end of the trip through the intranet (Forms ->
+Expenses) or to accounting@acme.test.
+
+Employee signature ...................  Date ..........
+Manager approval  ....................  Date ..........
